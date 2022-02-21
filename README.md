@@ -21,12 +21,12 @@ Our report is below:
 ### Main screen
 
 ![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/blob/master/static/images/main.jpg)
-![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/tree/master/static/images/main1.jpg)
+![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/blob/master/static/images/main1.jpg)
 
 ### Example Example retrieval
 
-![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/tree/master/static/images/demo1.jpg)
-![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/tree/master/static/images/demo2.jpg)
+![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/blob/master/static/images/demo1.jpg)
+![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/blob/master/static/images/demo2.jpg)
 
 ## Pre Proccessing
 
