@@ -1,7 +1,7 @@
 ## Group member:
 * **Nguyen Huu Doanh** - *18520606@gm.uit.edu.vn*
-* **Nguyen Minh Châu** - *18520519@gm.uit.edu.vn*
-* **Tô Viết Anh** - *18520471@gm.uit.edu.vn*
+* **Nguyen Minh Chau** - *18520519@gm.uit.edu.vn*
+* **To Viet Anh** - *18520471@gm.uit.edu.vn*
 ## Introduction
 This project is on the field of Computer Vision, an sub-domain of Computer Science. On this project, we build our audio and lyrics retrieval system based on the paper [Efficient and robust approximate nearest neighbor search using hierarchical navigable small world graphs]
 
