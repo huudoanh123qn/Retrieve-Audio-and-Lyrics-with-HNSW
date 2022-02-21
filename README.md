@@ -20,7 +20,7 @@ Our report is below:
 ## Demo
 ### Main screen
 
-![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/tree/master/static/images/main.jpg)
+![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/blob/master/static/images/main.jpg)
 ![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/tree/master/static/images/main1.jpg)
 
 ### Example Example retrieval
