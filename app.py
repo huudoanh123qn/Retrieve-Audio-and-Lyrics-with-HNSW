@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# <<<<<<< HEAD
 
 
 from flask import Flask, render_template, request, redirect,url_for
@@ -154,7 +154,7 @@ def searchlyric(id):
             
 if __name__ == "__main__":
     model1, time,songs,list_song= model.load_model()
-=======
+# =======
 
 
 from flask import Flask, render_template, request, redirect,url_for
@@ -310,5 +310,5 @@ def searchlyric(id):
             
 if __name__ == "__main__":
     model1, time,songs,list_song= model.load_model()
->>>>>>> 30452720899e092f6c2e7549dced3856cb750459
+# >>>>>>> 30452720899e092f6c2e7549dced3856cb750459
     app.run(debug=True, threaded=True)

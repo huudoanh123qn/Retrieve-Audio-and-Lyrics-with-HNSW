@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# <<<<<<< HEAD
 import os
 import glob
 import librosa
@@ -35,7 +35,7 @@ def predict(feat,songs,model):
     most_song = Counter(results)
     arr = most_song.most_common()
     return arr,count_s_begin
-=======
+# =======
 import os
 import glob
 import librosa
@@ -72,4 +72,4 @@ def predict(feat,songs,model):
     most_song = Counter(results)
     arr = most_song.most_common()
     return arr,count_s_begin
->>>>>>> 30452720899e092f6c2e7549dced3856cb750459
+# >>>>>>> 30452720899e092f6c2e7549dced3856cb750459
