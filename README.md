@@ -20,13 +20,13 @@ Our report is below:
 ## Demo
 ### Main screen
 
-![alt text](./static/images/main.jpeg)
-![alt text](./static/images/main1.jpeg)
+![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/static/images/main.jpeg)
+![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/static/images/main1.jpeg)
 
 ### Example Example retrieval
 
-![alt text](./static/images/demo1.jpeg)
-![alt text](./static/images/demo2.jpeg)
+![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/static/images/demo1.jpeg)
+![alt text](https://github.com/huudoanh123qn/Retrieve-Audio-and-Lyrics-with-HNSW/static/images/demo2.jpeg)
 
 ## Pre Proccessing
 
