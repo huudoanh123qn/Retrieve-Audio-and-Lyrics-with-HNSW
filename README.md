@@ -1,17 +1,32 @@
-# Music Query
+## Group member:
+* **Nguyen Huu Doanh** - *18520606@gm.uit.edu.vn*
+* **Nguyen Minh Châu** - *18520519@gm.uit.edu.vn*
+* **Tô Viết Anh** - *18520471@gm.uit.edu.vn*
+## Introduction
+This project is on the field of Computer Vision, an sub-domain of Computer Science. On this project, we build our audio and lyrics retrieval system based on the paper [Efficient and robust approximate nearest neighbor search using hierarchical navigable small world graphs]
 
-This music query has 3 parts:
+This our system has 3 parts:
 
 * Music Query
 * Lyric Query
 * Keyword Query
-
+Futhermore, we use [Flask](https://flask.palletsprojects.com/en/1.1.x/) - an web framework using for python to build our GUI
 ## Report
 
 Our report is below:
 
 [Report](Report.pdf)
 
+## Demo
+### Main screen
+
+![alt text](./static/images/main.jpeg)
+![alt text](./static/images/main1.jpeg)
+
+### Example Example retrieval
+
+![alt text](./static/images/demo1.jpeg)
+![alt text](./static/images/demo2.jpeg)
 
 ## Pre Proccessing
 
