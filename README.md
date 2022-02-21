@@ -60,4 +60,6 @@ Prepare musics + images(albums) + lyrics path.
 ## 3. Run music query's website
 
     python app.py
-    
+## Credit 
+HNSW: <https://github.com/nmslib/hnswlib>
+Annoy: <https://github.com/spotify/annoy>
